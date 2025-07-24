@@ -5,3 +5,6 @@ Weed Detection using CNN | Village Dataset from Pune This project focuses on det
 
 <img width="1421" height="853" alt="image" src="https://github.com/user-attachments/assets/33f831b7-b0f9-42b1-8431-4cfa961cf423" />
 
+<img width="1433" height="856" alt="image" src="https://github.com/user-attachments/assets/787b2aaa-cdd3-40f5-8e19-561e42548fd7" />
+
+
